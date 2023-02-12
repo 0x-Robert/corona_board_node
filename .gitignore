@@ -1,2 +1,7 @@
 .env
 coronaboard-api/node_modules/*
+tools/*.json
+*.json
+crawler/node_modules/*
+tools/node_modules/*
+node_modules/*
